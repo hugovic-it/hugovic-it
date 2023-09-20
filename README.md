@@ -1,10 +1,10 @@
 ### Olá!👋 <br> Eu sou Hugo Victor👋
 
+<a href="https://www.linkedin.com/in/hugovic-it/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugovic-it/)
-
-
+ 
 <h2>Tecnologias que utilizo:</h2>
 
 <div style="display:"inline_block">
