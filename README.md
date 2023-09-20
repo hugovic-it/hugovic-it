@@ -20,10 +20,3 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">
 </div>
-
-
-
-![Hugo GitHub stats](https://github-readme-stats.vercel.app/api?username=hugovic-it&show_icons=true&theme=transparent)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugovic-it&hide_progress=true)
