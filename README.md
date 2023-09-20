@@ -1,4 +1,4 @@
-### Olá!👋 <br> Eu sou Hugo Victor 👋
+### Olá!👋 <br> Eu sou Hugo Victor👋
 
 
 
@@ -6,7 +6,7 @@
 )](https://www.linkedin.com/in/hugovic-it/)
 
 
-<h2>Tecnologia que utilizo:</h2>
+<h2>Tecnologias que utilizo:</h2>
 
 <div style="display:"inline_block">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
